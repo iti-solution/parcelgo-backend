@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "whatever_build_command_you_need"
+    "build": "npm install"
   },
   "keywords": [],
   "author": "",
